@@ -2,7 +2,7 @@
 
 **A graph neural network model enables accurate prediction of Anaplastic lymphoma kinase inhibitors**
 
-![screenshot](./Image/Fig1.jpg)
+![screenshot](./Image/Fig1.png)
 
 Abstract
 - Purpose: Anaplastic lymphoma kinase (ALK), a tyrosine kinase receptor, is defined as an important target in the development of anticancer drugs for non-small cell lung cancer. In the present work, we have performed a graph neural network (GNN) model for rapid anticancer bioactivity prediction.
