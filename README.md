@@ -14,4 +14,4 @@ The source code, all datasets, and the results of this study are available at ht
 The deployment model is available at: https://huggingface.co/spaces/thechuongtrinh/ALK_inhibitors_classification
 
 
-![screenshot](./Image/history_plot.png)
+![screenshot](./Image/Fig3.png)
