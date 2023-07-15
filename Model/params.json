@@ -1,0 +1,1 @@
+{"batch_size": 64, "sgd_momentum": 0.7650509613834541, "scheduler_gamma": 0.9844021689216244, "model_embedding_size": 215, "model_layers": 3, "model_dropout_rate": 0.3767639976718497, "model_top_k_ratio": 0.5805249184752477, "model_dense_neurons": 198, "mlp_dropout": 0.35364435414672357}
