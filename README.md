@@ -10,8 +10,15 @@ Abstract
 
 Keywords: Anaplastic lymphoma kinase; Graph neural network; Deep learning model; Non-small cell lung cancer; Drug classification.
 
-The source code, all datasets, and the results of this study are available at https://github.com/Medicine-Artificial-Intelligence/KSE-BCB2023-GNN-ALK: 
-The deployment model is available at: https://huggingface.co/spaces/thechuongtrinh/ALK_inhibitors_classification
+- The source code, all datasets, and the results of this study are available at https://github.com/Medicine-Artificial-Intelligence/KSE-BCB2023-GNN-ALK: 
+- The deployment model is available at: https://huggingface.co/spaces/thechuongtrinh/ALK_inhibitors_classification
 
 
 ![screenshot](./Image/Fig3.jpg)
+
+# Contributors
+- [The-Chuong Trinh](https://trinhthechuong.github.io/)
+- [Van-Thinh To](https://thinhump.github.io/)
+- [Phuoc-Chung Nguyen Van]
+- [Thanh-An Pham](https://github.com/anpham2209)
+- [Tieu-Long Phan](https://tieulongphan.github.io/)
