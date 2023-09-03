@@ -22,6 +22,6 @@ Keywords: Anaplastic lymphoma kinase; Graph neural network; Deep learning model;
 - [The-Chuong Trinh](https://trinhthechuong.github.io/)
 - [Van-Thinh To](https://thinhump.github.io/)
 - [Phuoc-Chung Nguyen Van](https://www.facebook.com/chung.nguyenvanphuoc.9)
-- [Thanh-An Pham](https://github.com/anpham2209)
+- [Thanh-An Pham](https://thanh-an-pham.github.io/)
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
 - [Ngoc-Tuyen Truong](https://scholar.google.com/citations?hl=vi&user=qx3eMsIAAAAJ) - [Corresponding author](mailto:truongtuyen@ump.edu.vn)
