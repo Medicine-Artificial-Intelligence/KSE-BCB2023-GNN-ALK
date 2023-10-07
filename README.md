@@ -1,7 +1,5 @@
 # KSE-BCB2023-GNN-ALK
 
-# KSE-BCB2023-GNN-ALK
-
 **A graph neural network model enables accurate prediction of Anaplastic lymphoma kinase inhibitors**
 
 ![screenshot](./Image/Fig1.png)
